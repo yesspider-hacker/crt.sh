@@ -1,4 +1,4 @@
-# cert.sh
+# crt.sh
 
 
 
